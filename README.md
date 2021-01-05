@@ -15,7 +15,6 @@ set.
 
 public class TestHeadPhone {
 	public static void main(String[] args)  {   
-	
 	// Constructing original head phone object 
 	
 	HeadPhone  headPhoneName = new HeadPhone();
