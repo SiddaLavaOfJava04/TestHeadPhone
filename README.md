@@ -8,8 +8,11 @@ File: TestHeadPhone.java
 Purpose: Design a Java class named
 HeadPhone to represent a headphone 
 set.
-Author: University of Maryland University College
+
 */
+
+
+
 public class TestHeadPhone {
 	public static void main(String[] args)  {   
 	
