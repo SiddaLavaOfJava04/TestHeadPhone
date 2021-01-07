@@ -1,4 +1,4 @@
-# TestHeadPhone
+# TestHeadPhone.Java
 Design a Java class named TestHeadPhone to represent a headphone set.
 
 /* 
